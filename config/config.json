@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "user_42kyqxb2m",
+    "password": "p42kyqxb2m",
+    "database": "db_42kyqxb2m_development",
+    "host": "ocdb.app",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "user_42kyqxb2m",
+    "password": "p42kyqxb2m",
+    "database": "db_42kyqxb2m_test",
+    "host": "ocdb.app",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "user_42kyqxb2m",
+    "password": "p42kyqxb2m",
+    "database": "db_42kyqxb2m_production",
+    "host": "ocdb.app",
+    "dialect": "postgres"
+  }
+}
